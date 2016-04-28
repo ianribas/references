@@ -2,6 +2,10 @@
 
  | tags | notes | | added
 :-- | :--: | :-- | :--: | :--:
+Pocket | | | | 2016-04-28
+Pair programming & Monica Beckwith - G1 (again ...) | | | | 2016-04-28
+[Arquitetura Incremental: 1 milhão de linhas, uma solução de cada vez](http://www.infoq.com/br/presentations/arquitetura-incremental) | | | | 2016-04-08
+[Desenvolvendo produtos e projetos de forma enxuta e eficiente](http://www.infoq.com/br/presentations/desenvolvendo-produtos-e-projetos) | agile, mvp | |  | 2016-04-08
 [Arquitetura Incremental: 1 milhão de linhas, uma solução de cada vez](http://www.infoq.com/br/presentations/arquitetura-incremental) | | | | 2016-04-08
 [Desenvolvendo produtos e projetos de forma enxuta e eficiente](http://www.infoq.com/br/presentations/desenvolvendo-produtos-e-projetos) | agile, mvp | |  | 2016-04-08
 [GTAC 2015: Recorded Videos - Google Test Automation Conference](https://developers.google.com/google-test-automation-conference/2015/stream) | gtac, tests | | | 2016-02-28
