@@ -3,7 +3,6 @@
  | tags | notes | | added
 :-- | :--: | :-- | :--: | :--:
 Pocket | | | | 2016&#8209;05&#8209;??
-[Immutable Infrastructure: Rise of the Machine Images](http://www.infoq.com/presentations/immutable-infrastructure) | dev ops, deploy, virtual machines | A presentation of a tool making it easier to deploy on the cloud, and a little about the history that got us here. I think his take on containers is wrong, which makes me distrust his tool ... | 2 | 2016-04-28
 [GTAC 2015: Recorded Videos - Google Test Automation Conference](https://developers.google.com/google-test-automation-conference/2015/stream) | gtac, tests | | | 2016&#8209;02&#8209;28
 [#LearningIsHorrible, and Other Harsh Realities](http://www.infoq.com/presentations/psychology-agile-adoption) | agile, learning, culture | Phenomenal exposition on changing oneself, then propagate to change the culture of an organization. Very good tools and references on what to do to really learn and on some of our biases. | 5 | 2016&#8209;04&#8209;20
 [Pair Programming](http://www.infoq.com/presentations/pair-programming-nordevcon-2016) | agile, pair programming, practices | Excellent defense of pair programming. "Pair programming is all about the pair, you get the programming for free." | 5 | 2016-04-25
