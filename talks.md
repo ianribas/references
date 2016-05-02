@@ -1,12 +1,13 @@
 # Talks and Interviews
 
+tesss te teste spell check?
  | tags | notes | | added
 :-- | :--: | :-- | :--: | :--:
 Pocket | | | | 2016&#8209;04&#8209;28
 Monica Beckwith - G1 (again ...) | | | | 2016-04-28
-[Pair Programming](http://www.infoq.com/presentations/pair-programming-nordevcon-2016) | agile, pair programming, practices | Excellent defense of pair programming. "Pair programming is all about the pair, you get the programming for free." | 5 | 2016-04-08
 [GTAC 2015: Recorded Videos - Google Test Automation Conference](https://developers.google.com/google-test-automation-conference/2015/stream) | gtac, tests | | | 2016-02-28
-[#LearningIsHorrible, and Other Harsh Realities](http://www.infoq.com/presentations/psychology-agile-adoption) | agile, learning, culture | Fenomenal exposition on changing oneself, then propagate to change the culture of an organization. Very good tools and references on what to do to really learn and on some of our biases. | 5 | 2016-04-20
+[#LearningIsHorrible, and Other Harsh Realities](http://www.infoq.com/presentations/psychology-agile-adoption) | agile, learning, culture | Phenomenal exposition on changing oneself, then propagate to change the culture of an organization. Very good tools and references on what to do to really learn and on some of our biases. | 5 | 2016-04-20
+[Pair Programming](http://www.infoq.com/presentations/pair-programming-nordevcon-2016) | agile, pair programming, practices | Excellent defense of pair programming. "Pair programming is all about the pair, you get the programming for free." | 5 | 2016-04-25
 [Unevenly Distributed](http://www.infoq.com/presentations/research-future) |  academia, learning | Fantastic! I have to come back and look at the referenced papers ;-) Also a gives indication of a great way to keep learning. | 5 | 2016-04-08
 [Why Building the Right Thing Means Building the Thing Right](http://www.infoq.com/presentations/build-right-thing) | infoq, technical debt, complex problems, unknown unknowns | Excellent talk on engineering practices, technical debt and dealing with complex, not complicated problems, the ones that have unknown unknowns. | 5 | 2016-03-21
 [Ron Pressler - Pull Push: Please stop polluting our imperative languages with pure concepts-Curry On - YouTube](https://www.youtube.com/watch?v=449j7oKQVkc) | fibers, java, parallel programming, monads, FP | Very interesting concept. I wonder what are the problems, though ... | 4 | 2016-02-19
@@ -33,8 +34,9 @@ Monica Beckwith - G1 (again ...) | | | | 2016-04-28
 [Amir Chaudhry on Unikernels, MirageOS, HalVM, Rump Kernels](http://www.infoq.com/interviews/chaudhry-unikernels) | docker, unikernels, containers | Some interesting concepts, pretty deep. Seems worth looking into it, if a clear use case arrises. | 3 |
 [Business Mapping: Building an Agile Organization](http://www.infoq.com/presentations/business-mapping-skills-liquidity) | | agile, scale | Some interesting ideas, such as Dan North's venn diagram with the competencies we have, we want and the business needs. But in general pretty high level. | 2 | 2016-05-02
 [Do You Know How Fast You're Going?](http://www.infoq.com/presentations/measure-lean-feedback) | metrics, management, agile | Compara com todo mundo, interessante como referência do que e o estado da arte de métricas. | 3 |
-[Node4J: Running Node.js in a JavaWorld](http://www.infoq.com/presentations/node4j-nodejs-java) | java, javascript, node | From java to node and back again. Don't think I'll ever use this ... | 2 | 2016-04-05
-[You, Me and Jigsaw](http://www.infoq.com/presentations/jigsaw-java9) | java, modules | Way too basic. Now I know Jigsaw is comming ... | 2 | 2016-04-05
 [#NetflixEverywhere Global Architecture](http://www.infoq.com/presentations/netflix-failure-multiple-regions) |  architecture, scale, relato de experiencia  | High level overview, more inofrmation than actual learning, unless, I imagine, if you operate at that scale. | 2 | 2016&#8209;04&#8209;08
+[Java 9 - The (G1) GC Awakens!](http://www.infoq.com/presentations/g1-jdk-9) | java, gc | Pretty technical talk on the G1 GC, I guess I'd really have to have that kind of problem to actually take something away. | 2 | 2016-04-25
+[You, Me and Jigsaw](http://www.infoq.com/presentations/jigsaw-java9) | java, modules | Way too basic. Now I know Jigsaw is coming ... | 2 | 2016-04-05
+[Node4J: Running Node.js in a JavaWorld](http://www.infoq.com/presentations/node4j-nodejs-java) | java, javascript, node | From java to node and back again. Don't think I'll ever use this ... | 2 | 2016-04-05
 [Microservices Chaos Testing at Jet](http://www.infoq.com/presentations/jet-microservices-testing) |  tests,  use case | Not much information, some jargon, some usage. Jet uses F# on Azure ... | 1 | 2016-04-05
 [Behind the OSS Curtain: How we Manage Spring](http://www.infoq.com/presentations/managing-spring) | spring framework, java | Boring, at least for me | 1 |
