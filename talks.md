@@ -2,12 +2,9 @@
 
  | tags | notes | | added
 :-- | :--: | :-- | :--: | :--:
-Pocket | | | | 2016-04-28
-Pair programming & Monica Beckwith - G1 (again ...) | | | | 2016-04-28
-[Arquitetura Incremental: 1 milhão de linhas, uma solução de cada vez](http://www.infoq.com/br/presentations/arquitetura-incremental) | | | | 2016-04-08
-[Desenvolvendo produtos e projetos de forma enxuta e eficiente](http://www.infoq.com/br/presentations/desenvolvendo-produtos-e-projetos) | agile, mvp | |  | 2016-04-08
-[Arquitetura Incremental: 1 milhão de linhas, uma solução de cada vez](http://www.infoq.com/br/presentations/arquitetura-incremental) | | | | 2016-04-08
-[Desenvolvendo produtos e projetos de forma enxuta e eficiente](http://www.infoq.com/br/presentations/desenvolvendo-produtos-e-projetos) | agile, mvp | |  | 2016-04-08
+Pocket | | | | 2016&#8209;04&#8209;28
+Monica Beckwith - G1 (again ...) | | | | 2016-04-28
+[Pair Programming](http://www.infoq.com/presentations/pair-programming-nordevcon-2016) | agile, pair programming, practices | Excellent defense of pair programming. "Pair programming is all about the pair, you get the programming for free." | 5 | 2016-04-08
 [GTAC 2015: Recorded Videos - Google Test Automation Conference](https://developers.google.com/google-test-automation-conference/2015/stream) | gtac, tests | | | 2016-02-28
 [#LearningIsHorrible, and Other Harsh Realities](http://www.infoq.com/presentations/psychology-agile-adoption) | agile, learning, culture | Fenomenal exposition on changing oneself, then propagate to change the culture of an organization. Very good tools and references on what to do to really learn and on some of our biases. | 5 | 2016-04-20
 [Unevenly Distributed](http://www.infoq.com/presentations/research-future) |  academia, learning | Fantastic! I have to come back and look at the referenced papers ;-) Also a gives indication of a great way to keep learning. | 5 | 2016-04-08
@@ -24,6 +21,8 @@ Pair programming & Monica Beckwith - G1 (again ...) | | | | 2016-04-28
 [John Willis on IT Burnout and Mismatch Between Organizational and Personal Values](http://www.infoq.com/interviews/john-willis-qcon-london-2016) | burnout, culture | Interesting topics. Have to follow up on the references: self assessment, 3 stages. | 4 | 2016-04-20
 [New in ECMAScript 2016 and Beyond](http://www.infoq.com/presentations/tc39-ecmascript-2016) | javascript | Just to keep up to date, not that fundamental, interesting. | 3 |
 [Professor Geoff Hinton - "Deep Learning”. - YouTube](https://www.youtube.com/watch?v=IcOMKXAw5VA) | AI, deep learning, neural networks | Instructive, even if I only got about 20%. Would have to look at it more carefully to actually understand. | 3 | 2016-03-21
+[Desenvolvendo produtos e projetos de forma enxuta e eficiente](http://www.infoq.com/br/presentations/desenvolvendo-produtos-e-projetos) | agile, mvp | Uma técnica bastante interessante de fazer *inception*, ou seja, formas de começar projetos. | 3 | 2016-04-08
+[Arquitetura Incremental: 1 milhão de linhas, uma solução de cada vez](http://www.infoq.com/br/presentations/arquitetura-incremental) | architecture, agile, relato de experiência | Alguns pontos interessantes na metodologia. Revisão de código mostrando mais uma utilidade: validar se escolhas de arquitetura estão sendo utilizadas de forma correta. Fica a dúvida do quanto de problema eles tiveram uma vez o produto realmente em produção. | 3 | 2016-04-08
 [Gil Tene on Understanding Latency](http://www.infoq.com/interviews/tene-latency) | performance, latency | Some interesting concepts. | 3 | 2016-02-19
 [Explorations of the three legged performance stool](http://www.infoq.com/presentations/throughput-latency-memory-footprint) | performance, latency, throughput | Low level, inside performance discussion. very technical, a little boring, didn't learn that much ... | 3 | 2016&#8209;02&#8209;19
 [Strata + Hadoop World - Singapore 2015](https://www.youtube.com/watch?v=d4pOHPlRMaU&list=PL055Epbe6d5Zipu8Fx2gw-NcAdtJjt8dq) | strata, big data | The first 15 only (the keynotes) Some interesting points, mostly industry overviews. | 3 | 2016-02-08
@@ -32,6 +31,7 @@ Pair programming & Monica Beckwith - G1 (again ...) | | | | 2016-04-28
 [Understanding Hardware Transactional Memory](http://www.infoq.com/presentations/hardware-transactional-memory) |  java, concurrency  | Very interesting concept, even if only really matters at greater scale than what usually happens. | 3 | 2016-04-08
 [The Quest for Low-latency with Concurrent Java](http://www.infoq.com/presentations/low-latency-concurrrent-java-8) | java, concurrency | The topic is hot, the talk, not so much. Again java for financial technology, locks, lock less, etc. | 2 | 2016-04-05
 [Amir Chaudhry on Unikernels, MirageOS, HalVM, Rump Kernels](http://www.infoq.com/interviews/chaudhry-unikernels) | docker, unikernels, containers | Some interesting concepts, pretty deep. Seems worth looking into it, if a clear use case arrises. | 3 |
+[Business Mapping: Building an Agile Organization](http://www.infoq.com/presentations/business-mapping-skills-liquidity) | | agile, scale | Some interesting ideas, such as Dan North's venn diagram with the competencies we have, we want and the business needs. But in general pretty high level. | 2 | 2016-05-02
 [Do You Know How Fast You're Going?](http://www.infoq.com/presentations/measure-lean-feedback) | metrics, management, agile | Compara com todo mundo, interessante como referência do que e o estado da arte de métricas. | 3 |
 [Node4J: Running Node.js in a JavaWorld](http://www.infoq.com/presentations/node4j-nodejs-java) | java, javascript, node | From java to node and back again. Don't think I'll ever use this ... | 2 | 2016-04-05
 [You, Me and Jigsaw](http://www.infoq.com/presentations/jigsaw-java9) | java, modules | Way too basic. Now I know Jigsaw is comming ... | 2 | 2016-04-05
