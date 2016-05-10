@@ -6,7 +6,6 @@ Pocket | | | | 2016&#8209;05&#8209;??
 []() | | | ? | 2016&#8209;05&#8209;03
 [The Myth of the Qualified Developer](http://www.infoq.com/presentations/fail-learn?utm_source=infoqWeeklyNewsletter&utm_medium=WeeklyNL_EditorialContent_culture-methods&utm_campaign=05032016news) | | | ? | 2016&#8209;05&#8209;10
 [Code in the Cloud with Eclipse Che and Docker](http://www.infoq.com/presentations/eclipse-che-docker?utm_source=infoqWeeklyNewsletter&utm_medium=WeeklyNL_EditorialContent_development&utm_campaign=05032016news) | | | ? | 2016&#8209;05&#8209;10
-| | | ? | 2016&#8209;05&#8209;10
 [Hot Code is Faster Code - Addressing JVM Warm-up](https://mailer.infoq.com/link.php?M=17393234&N=3323&L=71794&F=H) | | | ? | 2016&#8209;05&#8209;10
 [Peter Alvaro on Distributed Programming, CRDTs, LDFI](https://mailer.infoq.com/link.php?M=17393234&N=3323&L=71822&F=H) | | | ? | 2016&#8209;05&#8209;10
 [GTAC 2015: Recorded Videos - Google Test Automation Conference](https://developers.google.com/google-test-automation-conference/2015/stream) | gtac, tests | | | 2016&#8209;02&#8209;28
