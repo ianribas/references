@@ -4,7 +4,14 @@
 :-- | :--: | :-- | :--: | :--:
 Pocket | | | | 2016&#8209;05&#8209;??
 []() | | | ? | 2016&#8209;05&#8209;03
-[]() | | | ? | 2016&#8209;05&#8209;03
+[Lucene escala? Full-text para Big Data com hardware modesto](http://www.infoq.com/br/presentations/lucene-escala-full-text-para-big-data) | | | ? | 2016&#8209;05&#8209;10
+[The Myth of the Qualified Developer](http://www.infoq.com/presentations/fail-learn?utm_source=infoqWeeklyNewsletter&utm_medium=WeeklyNL_EditorialContent_culture-methods&utm_campaign=05032016news) | | | ? | 2016&#8209;05&#8209;10
+[Code in the Cloud with Eclipse Che and Docker](http://www.infoq.com/presentations/eclipse-che-docker?utm_source=infoqWeeklyNewsletter&utm_medium=WeeklyNL_EditorialContent_development&utm_campaign=05032016news) | | | ? | 2016&#8209;05&#8209;10
+| | | ? | 2016&#8209;05&#8209;10
+[Hot Code is Faster Code - Addressing JVM Warm-up](https://mailer.infoq.com/link.php?M=17393234&N=3323&L=71794&F=H) | | | ? | 2016&#8209;05&#8209;10
+[Peter Alvaro on Distributed Programming, CRDTs, LDFI](https://mailer.infoq.com/link.php?M=17393234&N=3323&L=71822&F=H) | | | ? | 2016&#8209;05&#8209;10
+[The InfoQ Podcast: Adrian Cockcroft on Microservices, Terraservices and Serverless Computing](https://mailer.infoq.com/link.php?M=17393234&N=3323&L=71831&F=H) | | | ? | 2016&#8209;05&#8209;10
+[A Arquitetura do Stack Overflow e Stack Exchange](https://mailer.infoq.com/link.php?M=17714450&N=3328&L=69160&F=H) | | | ? | 2016&#8209;05&#8209;10
 [GTAC 2015: Recorded Videos - Google Test Automation Conference](https://developers.google.com/google-test-automation-conference/2015/stream) | gtac, tests | | | 2016&#8209;02&#8209;28
 [#LearningIsHorrible, and Other Harsh Realities](http://www.infoq.com/presentations/psychology-agile-adoption) | agile, learning, culture | Phenomenal exposition on changing oneself, then propagate to change the culture of an organization. Very good tools and references on what to do to really learn and on some of our biases. | 5 | 2016&#8209;04&#8209;20
 [Pair Programming](http://www.infoq.com/presentations/pair-programming-nordevcon-2016) | agile, pair programming, practices | Excellent defense of pair programming. "Pair programming is all about the pair, you get the programming for free." | 5 | 2016-04-25
@@ -26,6 +33,7 @@ Pocket | | | | 2016&#8209;05&#8209;??
 [New in ECMAScript 2016 and Beyond](http://www.infoq.com/presentations/tc39-ecmascript-2016) | javascript | Just to keep up to date, not that fundamental, interesting. | 3 |
 [Professor Geoff Hinton - "Deep Learning”. - YouTube](https://www.youtube.com/watch?v=IcOMKXAw5VA) | AI, deep learning, neural networks | Instructive, even if I only got about 20%. Would have to look at it more carefully to actually understand. | 3 | 2016-03-21
 [Desenvolvendo produtos e projetos de forma enxuta e eficiente](http://www.infoq.com/br/presentations/desenvolvendo-produtos-e-projetos) | agile, mvp | Uma técnica bastante interessante de fazer *inception*, ou seja, formas de começar projetos. | 3 | 2016-04-08
+[Continuos Design: em busca da agilidade](https://mailer.infoq.com/link.php?M=17824477&N=3363&L=72087&F=H)  e [Design para desenvolvedores](http://www.infoq.com/br/interviews/design-para-desenvolvedores) | design, UX, relato de experiência | Bons toques e boas idéias de processo para a interação entre designers e desenvolvedores, com base na experiência da ThoughtWorks. | 3 | 2016&#8209;05&#8209;10
 [Arquitetura Incremental: 1 milhão de linhas, uma solução de cada vez](http://www.infoq.com/br/presentations/arquitetura-incremental) | architecture, agile, relato de experiência | Alguns pontos interessantes na metodologia. Revisão de código mostrando mais uma utilidade: validar se escolhas de arquitetura estão sendo utilizadas de forma correta. Fica a dúvida do quanto de problema eles tiveram uma vez o produto realmente em produção. | 3 | 2016-04-08
 [Gil Tene on Understanding Latency](http://www.infoq.com/interviews/tene-latency) | performance, latency | Some interesting concepts. | 3 | 2016-02-19
 [Explorations of the three legged performance stool](http://www.infoq.com/presentations/throughput-latency-memory-footprint) | performance, latency, throughput | Low level, inside performance discussion. very technical, a little boring, didn't learn that much ... | 3 | 2016&#8209;02&#8209;19
