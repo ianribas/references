@@ -4,10 +4,10 @@
 :-- | :--: | :-- | :--: | :--:
 Pocket | | | | 2016&#8209;05&#8209;??
 []() | | | ? | 2016&#8209;05&#8209;03
-[The Myth of the Qualified Developer](http://www.infoq.com/presentations/fail-learn?utm_source=infoqWeeklyNewsletter&utm_medium=WeeklyNL_EditorialContent_culture-methods&utm_campaign=05032016news) | | | ? | 2016&#8209;05&#8209;10
-[Code in the Cloud with Eclipse Che and Docker](http://www.infoq.com/presentations/eclipse-che-docker?utm_source=infoqWeeklyNewsletter&utm_medium=WeeklyNL_EditorialContent_development&utm_campaign=05032016news) | | | ? | 2016&#8209;05&#8209;10
-[Hot Code is Faster Code - Addressing JVM Warm-up](https://mailer.infoq.com/link.php?M=17393234&N=3323&L=71794&F=H) | | | ? | 2016&#8209;05&#8209;10
-[Peter Alvaro on Distributed Programming, CRDTs, LDFI](https://mailer.infoq.com/link.php?M=17393234&N=3323&L=71822&F=H) | | | ? | 2016&#8209;05&#8209;10
+[The Myth of the Qualified Developer](http://www.infoq.com/presentations/fail-learn) | culture, work environments, failure | Very entertaining and insightful talk about the author's trajectory. | 4 | 2016&#8209;05&#8209;10
+[Code in the Cloud with Eclipse Che and Docker](http://www.infoq.com/presentations/eclipse-che-docker) | | | ? | 2016&#8209;05&#8209;10
+[Hot Code is Faster Code - Addressing JVM Warm-up](http://www.infoq.com/presentations/jvm-code-runtime) | | | ? | 2016&#8209;05&#8209;10
+[Peter Alvaro on Distributed Programming, CRDTs, LDFI](http://www.infoq.com/interviews/alvaro-distributed-programming) | | | ? | 2016&#8209;05&#8209;10
 [GTAC 2015: Recorded Videos - Google Test Automation Conference](https://developers.google.com/google-test-automation-conference/2015/stream) | gtac, tests | | | 2016&#8209;02&#8209;28
 [#LearningIsHorrible, and Other Harsh Realities](http://www.infoq.com/presentations/psychology-agile-adoption) | agile, learning, culture | Phenomenal exposition on changing oneself, then propagate to change the culture of an organization. Very good tools and references on what to do to really learn and on some of our biases. | 5 | 2016&#8209;04&#8209;20
 [Pair Programming](http://www.infoq.com/presentations/pair-programming-nordevcon-2016) | agile, pair programming, practices | Excellent defense of pair programming. "Pair programming is all about the pair, you get the programming for free." | 5 | 2016-04-25
