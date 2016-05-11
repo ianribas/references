@@ -2,9 +2,7 @@
 
  | tags | notes | | added
 :-- | :--: | :-- | :--: | :--:
-Pocket | | | | 2016&#8209;05&#8209;??
 []() | | | ? | 2016&#8209;05&#8209;03
-[Code in the Cloud with Eclipse Che and Docker](http://www.infoq.com/presentations/eclipse-che-docker) | | | ? | 2016&#8209;05&#8209;10
 [Hot Code is Faster Code - Addressing JVM Warm-up](http://www.infoq.com/presentations/jvm-code-runtime) | | | ? | 2016&#8209;05&#8209;10
 [Peter Alvaro on Distributed Programming, CRDTs, LDFI](http://www.infoq.com/interviews/alvaro-distributed-programming) | | | ? | 2016&#8209;05&#8209;10
 [GTAC 2015: Recorded Videos - Google Test Automation Conference](https://developers.google.com/google-test-automation-conference/2015/stream) | gtac, tests | | | 2016&#8209;02&#8209;28
@@ -52,5 +50,6 @@ Pocket | | | | 2016&#8209;05&#8209;??
 [Is It Possible to Run a 100% Remote Team?](http://www.infoq.com/presentations/leading-remote-team) | remote work, relato de experiência | Very small startup, does talk about some of the right points, but not very convincing to me. | 2 | 2016&#8209;05&#8209;03
 [You, Me and Jigsaw](http://www.infoq.com/presentations/jigsaw-java9) | java, modules | Way too basic. Now I know Jigsaw is coming ... | 2 | 2016-04-05
 [Node4J: Running Node.js in a JavaWorld](http://www.infoq.com/presentations/node4j-nodejs-java) | java, javascript, node | From java to node and back again. Don't think I'll ever use this ... | 2 | 2016-04-05
+[Code in the Cloud with Eclipse Che and Docker](http://www.infoq.com/presentations/eclipse-che-docker) | demo, docker, development environment | Just a demo of the che product, not very interesting in itself. Programming in the browser? Really? | 2 | 2016&#8209;05&#8209;10
 [Microservices Chaos Testing at Jet](http://www.infoq.com/presentations/jet-microservices-testing) |  tests,  use case | Not much information, some jargon, some usage. Jet uses F# on Azure ... | 1 | 2016-04-05
 [Behind the OSS Curtain: How we Manage Spring](http://www.infoq.com/presentations/managing-spring) | spring framework, java | Boring, at least for me | 1 |
