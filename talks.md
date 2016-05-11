@@ -4,7 +4,6 @@
 :-- | :--: | :-- | :--: | :--:
 Pocket | | | | 2016&#8209;05&#8209;??
 []() | | | ? | 2016&#8209;05&#8209;03
-[The Myth of the Qualified Developer](http://www.infoq.com/presentations/fail-learn) | culture, work environments, failure | Very entertaining and insightful talk about the author's trajectory. | 4 | 2016&#8209;05&#8209;10
 [Code in the Cloud with Eclipse Che and Docker](http://www.infoq.com/presentations/eclipse-che-docker) | | | ? | 2016&#8209;05&#8209;10
 [Hot Code is Faster Code - Addressing JVM Warm-up](http://www.infoq.com/presentations/jvm-code-runtime) | | | ? | 2016&#8209;05&#8209;10
 [Peter Alvaro on Distributed Programming, CRDTs, LDFI](http://www.infoq.com/interviews/alvaro-distributed-programming) | | | ? | 2016&#8209;05&#8209;10
@@ -17,6 +16,7 @@ Pocket | | | | 2016&#8209;05&#8209;??
 [Why Building the Right Thing Means Building the Thing Right](http://www.infoq.com/presentations/build-right-thing) | infoq, technical debt, complex problems, unknown unknowns | Excellent talk on engineering practices, technical debt and dealing with complex, not complicated problems, the ones that have unknown unknowns. | 5 | 2016-03-21
 [Ron Pressler - Pull Push: Please stop polluting our imperative languages with pure concepts-Curry On - YouTube](https://www.youtube.com/watch?v=449j7oKQVkc) | fibers, java, parallel programming, monads, FP | Very interesting concept. I wonder what are the problems, though ... | 4 | 2016-02-19
 [Can Building Enterprise Software Actually Be Fun?](http://www.infoq.com/presentations/enterprise-hearsay-social) | software development process, agile | Very very interesting. Many good notions: let people do what they like, everybody, specially devs, have contact with clients, and the obvious, state culture and let that attract like minded individuals. | 4 | 2016-02-19
+[The Myth of the Qualified Developer](http://www.infoq.com/presentations/fail-learn) | culture, work environments, failure | Very entertaining and insightful talk about the author's trajectory. | 4 | 2016&#8209;05&#8209;10
 [Sneak Peek of Graph Capabilities with the Elastic Stack](https://www.elastic.co/webinars/sneak-peek-of-graph-capabilities-with-elasticsearch) | webinar, elasticsearch, graph, recommender | Very nice new functionality on elasticsearch. Interesting overview and demo, even if (necessarily) simple and shallow. | 4 | 2016-03-31
 [Bind to the Cloud with Falcor](http://www.infoq.com/presentations/cloud-falcor) |javascript, front end, middleware | Very interesting concept, would be nice to try. | 4 |
 [Beyond Lists](http://www.infoq.com/presentations/data-structure-lists) | data structures | Interesting and pretty low level overview of data structures. Even some database concepts used for in memory data structures. | 4 | 2016-04-05
