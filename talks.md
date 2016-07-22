@@ -3,6 +3,19 @@
  | tags | notes | | added
 :-- | :--: | :-- | :--: | :--:
 []() | | | ? | 2016&#8209;05&#8209;03
+[Code Quality in Practice](https://www.infoq.com/presentations/code-climate-static-analysis) | | | ? | 2016&#8209;07&#8209;22
+[Successful Go Program Design, 6 Years On](https://www.infoq.com/presentations/go-patterns) | | | ? | 2016&#8209;07&#8209;22
+[RxJS 5 in Depth](https://www.infoq.com/presentations/rxjs-5) | | | ? | 2016&#8209;07&#8209;22
+[Lessons Learned on Uber's Journey into Microservices](https://www.infoq.com/presentations/uber-darwin) | | | ? | 2016&#8209;07&#8209;22
+[REST Considered Harmful](https://www.infoq.com/presentations/rest-streaming-api) | | | ? | 2016&#8209;07&#8209;22
+[History of Open Source & Free Software, w/ Richard Stallman & Tim O'Reilly](http://www.cmpod.net/history-open-source-free-software-pt-2-w-special-guests-richard-stallman-tim-oreilly/?imm_mid=0e572c&cmp=em-prog-na-na-newsltr_20160702) | | | ? | 2016&#8209;07&#8209;18
+[Plataforma Digital com Google Cloud Platform](https://mailer.infoq.com/link.php?M=19272646&N=3635&L=73991&F=H) | | | ? | 2016&#8209;07&#8209;14
+[](http://kar.kent.ac.uk/46742/1/fp1187-altadmri.pdf) | | | ? | 2016&#8209;07&#8209;05
+[James Coglan: Practical functional programming: pick two | JSConf EU 2014](http://www.youtube.com/watch?v=XcS-LdEBUkE) | | | ? | 2016&#8209;07&#8209;05
+[Asynchronous Programming at Netflix - @Scale 2014 - Web](https://www.youtube.com/watch?v=gawmdhCNy-A) | | | ? | 2016&#8209;07&#8209;05
+[The Impostor Syndrome](https://www.infoq.com/presentations/impostor-syndrome-2) | | | ? | 2016&#8209;07&#8209;05
+[Hunting Unicorns - The Quest for Modern Agile](https://www.infoq.com/presentations/modern-agile) | | | ? | 2016&#8209;07&#8209;05
+[How Being Ordinary Gets Extraordinary Output](https://www.infoq.com/presentations/leadership-humble-authentic) | | | ? | 2016&#8209;07&#8209;05
 [Programação Genérica aplicada: levando a abstração ao limite](https://www.infoq.com/br/presentations/programacao-generica-aplicada) | | | ? | 2016&#8209;05&#8209;10
 [Containers at Netflx - An Evolving Story](https://mailer.infoq.com/link.php?M=17393234&N=3471&L=72935&F=H) | | | ? | 2016&#8209;05&#8209;10
 [The Microservices and DevOps Journey](https://mailer.infoq.com/link.php?M=17393234&N=3471&L=72933&F=H) | | | ? | 2016&#8209;05&#8209;10
@@ -14,6 +27,7 @@
 [Culture and the Games People Play](http://www.infoq.com/presentations/culture-games) | culture, power alignement, autonomy, work environments, failure, relato de experiência | Fantastic exposition on culture, with examples - including failures, clear ideas and ways of doing things, and a call to action. Spheres of autonomy seems great. Agility vs predictability, too. | 5 | 2016&#8209;05&#8209;03
 [Unevenly Distributed](http://www.infoq.com/presentations/research-future) |  academia, learning | Fantastic! I have to come back and look at the referenced papers ;-) Also a gives indication of a great way to keep learning. | 5 | 2016-04-08
 [Why Building the Right Thing Means Building the Thing Right](http://www.infoq.com/presentations/build-right-thing) | infoq, technical debt, complex problems, unknown unknowns | Excellent talk on engineering practices, technical debt and dealing with complex, not complicated problems, the ones that have unknown unknowns. | 5 | 2016-03-21
+[Kris Kowal - A Theory Of Reactivity](https://vimeo.com/144478375) | FP, reactive programming, Rx | Good presentation of the fundamentals. | 5 | 2016&#8209;07&#8209;05
 [Ron Pressler - Pull Push: Please stop polluting our imperative languages with pure concepts-Curry On - YouTube](https://www.youtube.com/watch?v=449j7oKQVkc) | fibers, java, parallel programming, monads, FP | Very interesting concept. I wonder what are the problems, though ... | 4 | 2016-02-19
 [Can Building Enterprise Software Actually Be Fun?](http://www.infoq.com/presentations/enterprise-hearsay-social) | software development process, agile | Very very interesting. Many good notions: let people do what they like, everybody, specially devs, have contact with clients, and the obvious, state culture and let that attract like minded individuals. | 4 | 2016-02-19
 [The Myth of the Qualified Developer](http://www.infoq.com/presentations/fail-learn) | culture, work environments, failure | Very entertaining and insightful talk about the author's trajectory. | 4 | 2016&#8209;05&#8209;10
@@ -24,6 +38,7 @@
 [The Last Programming Language](http://www.infoq.com/presentations/history-future-programming-languages) | languages, uncle bob | Very good!! Discipline for the win ;-) | 4 | 2016-02-11
 [Parte 2 - Como trabalhar com requisitos na construção de soluções de software? - YouTube](https://www.youtube.com/watch?v=1dkcfrMU_rA) | webinar, software requirements, business analysis, agile software development | Boa apresentação sobre requisitos em ambientes de dev ágil. Gostei das referências aos "canvas", modelos de documento de apoio, especialmente o Lean Canvas e o Product Vision | 4 | 2016-03-23
 [The Case for TypeScript](http://www.infoq.com/presentations/tpescript-language-tools) | javascript, typescript| Very nice inside overview of typescript, why it was created, how to use it, tradeoffs. | 4 | 2016-04-25
+[The Slow Steady Industry Move Toward Tacit Programming](https://www.infoq.com/presentations/tacit-programming) | Functional programming, Observables, reactive programming   | Some interesting insights, good references, nice examples, but sometimes a little confusing and hard to follow. | 4 | 2016&#8209;07&#8209;05
 [Have Native Languages Returned? (TL;DR: Yes)](http://www.infoq.com/presentations/c-rust-go) | languages, go, c++, rust | Had never heard of Rust, seems interesting. Some interesting points also on the kind of C++ to use and on how hard it really is to do concurrent programming in Go using goroutines. | 3 | 2016-02-11
 [Desenvolvendo produtos e projetos de forma enxuta e eficiente](http://www.infoq.com/br/presentations/desenvolvendo-produtos-e-projetos) | agile, mvp | Uma técnica bastante interessante de fazer *inception*, ou seja, formas de começar projetos. | 3 | 2016-04-08
 [Continuos Design: em busca da agilidade](https://mailer.infoq.com/link.php?M=17824477&N=3363&L=72087&F=H)  e [Design para desenvolvedores](http://www.infoq.com/br/interviews/design-para-desenvolvedores) | design, UX, relato de experiência | Bons toques e boas idéias de processo para a interação entre designers e desenvolvedores, com base na experiência da ThoughtWorks. | 3 | 2016&#8209;05&#8209;10
