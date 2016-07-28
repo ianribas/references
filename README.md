@@ -5,3 +5,4 @@ Just a place to store software development references on the net (online courses
   * [Courses](https://github.com/ianribas/references/blob/master/courses.md)
   * [Talks](https://github.com/ianribas/references/blob/master/talks.md)
   * [Newsletters](https://github.com/ianribas/references/blob/master/newsletters.md)
+  * [Podcasts](https://github.com/ianribas/references/blob/master/podcasts.md)
