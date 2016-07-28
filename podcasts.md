@@ -1,9 +1,10 @@
-Podcasts
+# Podcasts #
 
-Mobile
+## Mobile ##
 
-http://androidbackstage.blogspot.com.br/
-https://iosbytes.codeschool.com/
-https://devchat.tv/iphreaks
-http://blog.ideveloper.co/
-http://gonemobile.io/
+ * [Android Backstage](http://androidbackstage.blogspot.com.br/)
+ * [iOSBytes](https://iosbytes.codeschool.com/): 5min news
+ * [IPhreaks](https://devchat.tv/iphreaks)
+ * [iDeveloper](http://blog.ideveloper.co/)
+ * [Gone Mobile](http://gonemobile.io/): More Xamarin
+ * [Mobile Couch](http://mobilecouch.co/)
