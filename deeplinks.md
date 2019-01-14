@@ -9,3 +9,5 @@ ABC shows: https://abc.go.com/shows
 [even more shows](abcplayer://shows)
 
 https://abc.go.com/watch-live
+
+https://abc.go.com/schedule
