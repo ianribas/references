@@ -16,4 +16,6 @@ https://abc.go.com/shows/a-million-little-things/episode-guide/season-01/12-the-
 
 https://abc.go.com/shows/jimmy-kimmel-live/video/featured/VDKA9255513
 
+https://abc.go.com/shows/jimmy-kimmel-live/video/vdka9255513
+
 https://abc.go.com/shows/the-bachelor/cast/season-23-bri-2019
