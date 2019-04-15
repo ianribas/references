@@ -21,5 +21,7 @@ https://abc.go.com/shows/jimmy-kimmel-live/video/vdka9255513
 https://abc.go.com/shows/the-bachelor/cast/season-23-bri-2019
 
 https://abc.go.com/shows/the-bachelor/video/meet-the-bachelorettes/VDKA0_g5e6cp0k
+
 https://abc.go.com/shows/jimmy-kimmel-live/video/vdka4169547
+
 https://abc.go.com/shows/jimmy-kimmel-live/video/vdka9255513
