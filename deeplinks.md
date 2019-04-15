@@ -25,3 +25,5 @@ https://abc.go.com/shows/the-bachelor/video/meet-the-bachelorettes/VDKA0_g5e6cp0
 https://abc.go.com/shows/jimmy-kimmel-live/video/vdka4169547
 
 https://abc.go.com/shows/jimmy-kimmel-live/video/vdka9255513
+
+https://abc.go.com/shows/jimmy-kimmel-live/video/mean-tweets/VDKA4169547
