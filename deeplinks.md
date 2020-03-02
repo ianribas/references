@@ -10,6 +10,8 @@ ABC shows: https://abc.go.com/shows
 
 [Android app link](android-app://com.abc.abcnews/abcnews/video/abcnews~41463246)
 
+[Video 39180211](abcnews://video/abcnews~39180211)
+
 https://abc.go.com/watch-live
 
 https://abc.go.com/schedule
