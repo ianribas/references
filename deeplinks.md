@@ -1,5 +1,9 @@
 # Some deep links
 
+Device details: https://app.eero.com/devicedetails or https://app.eero.com/devicedetails/index.html
+
+------
+
 ABC shows: https://abc.go.com/shows
 
 [shows](https://abc.go.com/shows)
