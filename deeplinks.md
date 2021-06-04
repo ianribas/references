@@ -1,5 +1,7 @@
 # Some deep links
 
+Home: https://app.eero.com/home or https://app.eero.com/home/index.html
+
 Device details: https://app.eero.com/devicedetails or https://app.eero.com/devicedetails/index.html
 
 ------
