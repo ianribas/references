@@ -2,6 +2,8 @@
 
 Home: https://app.eero.com/home or https://app.eero.com/home/index.html
 
+Plus info: https://app.eero.com/eeroplusinfo or https://app.eero.com/eeroplusinfo/index.html or eero://jumpto/eeroplusinfo
+
 Device details: https://app.eero.com/devicedetails or https://app.eero.com/devicedetails/index.html
 
 ------
